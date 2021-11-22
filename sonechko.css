@@ -1,0 +1,39 @@
+html{
+    background-color: rgb(255, 208, 208);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+#first {
+    height: 100px;
+    width: 450px;
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 125%;
+    color: rgb(255, 0, 128);
+    border-radius: 10px;
+    border-color: orchid;
+    margin-top: 50px;
+    text-align: center;
+    border-style: solid;
+    margin:0 auto;
+}
+
+
+#start {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 200px;
+    height: 60px;
+    width: 200px;
+    background-color: rgb(66, 250, 158);
+    color: steelblue;
+    font-size: 100%;
+    border-radius: 10px;
+}
